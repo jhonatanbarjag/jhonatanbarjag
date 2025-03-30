@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center"> Hola, soy jhonatan 👋 </h1>
 </div>
-<!--
-**jhonatanbarjag/jhonatanbarjag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## Sobre mi
 
 Here are some ideas to get you started:
