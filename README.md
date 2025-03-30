@@ -1,6 +1,6 @@
-<div align="center">
-<h1 align="center"> Hola, soy jhonatan 👋 </h1>
-</div>
+<h1 align="center">Hola, soy Jhonatan 👋</h1>
+
+---
 
 ### 🚀 Tecnologías que manejo:
 
