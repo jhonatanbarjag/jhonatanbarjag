@@ -8,7 +8,7 @@
 
 ### 🚀 Tecnologías que manejo:
 
-- 🚀 **Lenguajes:** JavaScript, TypeScript, Java  
+- 🚀 **Lenguajes:** JavaScript, TypeScript, Java, Php
 - ⚙️ **Backend:** Node.js, Express, Spring Boot  
 - 🗄️ **Bases de datos:** PostgreSQL, MySQL, MongoDB  
 - 🛠️ **Herramientas:** Git, Docker, Jest  
